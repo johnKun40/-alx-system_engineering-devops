@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf  /path/to/files/*.js
+del /s *.js
